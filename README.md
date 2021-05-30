@@ -18,6 +18,7 @@ Here I start from scratch focusing my efforts on frontend, utilising an existing
 
 ### TO DO
 * Allow user to view specific beer details (accordion?)
+* Allow user to add a number of beers to a cart
 * include basic styling (css?)
 
 
